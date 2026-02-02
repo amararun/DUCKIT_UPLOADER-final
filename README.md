@@ -120,3 +120,10 @@ npm run build    # Production build to dist/
 | Repo | Description |
 |------|-------------|
 | `shared-FASTAPI_DUCKIT` | FastAPI backend for file storage and DuckDB conversion |
+
+
+## Author
+
+Built by [Amar Harolikar](https://www.linkedin.com/in/amarharolikar/)
+
+Explore 30+ open source AI tools for analytics, databases & automation at [tigzig.com](https://tigzig.com)
